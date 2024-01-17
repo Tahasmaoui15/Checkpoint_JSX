@@ -2,7 +2,7 @@
 
 const product = {
     name: "",
-    price: 19.99,
+    price: ,
     description: "",
     image: "",
   };
