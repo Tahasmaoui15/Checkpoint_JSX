@@ -1,4 +1,4 @@
-// // Name.js
+// Name.js
 
 import React from 'react';
 import product from './product';
