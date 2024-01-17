@@ -1,17 +1,17 @@
 // // Price.js
 
-// import React from 'react';
-// import product from './product';
+import React from 'react';
+import product from './product';
 
-// const Price = () => {
-//   return (
-//     <div>
-//       <p>Price: ${product.price}</p>;
-//     </div>
-//   );
-// }
+const Price = () => {
+  return (
+    <div>
+      <p>Price: ${product.price}</p>;
+    </div>
+  );
+}
 
-// export default Price;
+export default Price;
 
 
 
